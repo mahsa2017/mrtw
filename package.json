@@ -1,0 +1,23 @@
+{
+  "name": "mrtw",
+  "version": "1.0.0",
+  "description": "mrtw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahsa2017/mrtw.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahsa2017/mrtw/issues"
+  },
+  "homepage": "https://github.com/mahsa2017/mrtw#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
