@@ -11,7 +11,7 @@ To run tests :
     npm test
 
 tests are in spec folder 
-and a simple user interface using the same code is deployed on the address below:
+and a simple user interface using the same code is deployed on the address:
 
 https://5c0047a9792f894350128d75--mrtw.netlify.com/
 
